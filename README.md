@@ -1,4 +1,4 @@
-# model_photo
+# классификации изображений роз, котов, собак
 
 ![image](https://github.com/user-attachments/assets/81eaeed5-e079-483d-81a8-f99625d8d189)
 
