@@ -1,4 +1,5 @@
-# классификации изображений роз, котов, собак
+# классификации изображений роз, котов, собак 
+Использовалось Visual Studio и ML.NET Model Builder(для обучения)
 
 ![image](https://github.com/user-attachments/assets/81eaeed5-e079-483d-81a8-f99625d8d189)
 
